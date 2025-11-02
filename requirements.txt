@@ -1,4 +1,4 @@
-selenium>=3.14
-pytest==7.1.3
+selenium>=4.38.0
+pytest==8.4.2
 pytest-selenium
-pytest-parallel
+pytest-xdist
